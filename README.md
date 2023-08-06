@@ -24,7 +24,7 @@ CubeTrip - гиперказуальная мобильная игра, разр�
 	</td>
 	<td valign="top">
 		<a>
-			<img src="images/tut.jpg"  width="256"/>
+			<img src="images/tut.jpg"  width="512"/>
 		</a>
 	</td>
 </tr>
