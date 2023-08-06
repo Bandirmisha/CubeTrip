@@ -1,4 +1,6 @@
 # CubeTrip
-<a>
+<div>
+	<a>
 		<img src="gifs/1.gif" width="256">
-</a>
+	</a>
+</div>
