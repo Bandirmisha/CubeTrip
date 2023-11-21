@@ -15,7 +15,7 @@
 CubeTrip - гиперказуальная мобильная игра, разработанная на движке Unity для Android-устройств. 
 В ней игроку необходимо управлять кубом, перепрыгивая препятствия и собирая монетки. 
 
-Мной были разработаны все аспекты данной игры.
+Мной была разработана визуальная часть данной игры.
 
  <a href="https://www.youtube.com/watch?v=6XmX8QYWCLA&ab_channel=StarEngine">ПРОМО-ВИДЕО <img alt="Посмотреть промо-видео на YouTube" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height=30px align="center" /></a>
 
